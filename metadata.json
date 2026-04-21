@@ -1,0 +1,5 @@
+{
+  "name": "AI 교과서 문제 출제기",
+  "description": "교과서 본문이나 이미지를 업로드하면 AI가 핵심 개념을 묻는 객관식 및 주관식 문제를 자동으로 출제해주는 서비스입니다.",
+  "requestFramePermissions": []
+}
